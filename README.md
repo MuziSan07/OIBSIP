@@ -1,2 +1,3 @@
 # OIBSIP
-This Repository is Created for Oasis InfoByte Internship Tasks as an Data Scientist.
+This Repository is Created for Oasis InfoByte Internship Tasks as an Data Scientist. Oasis InfoByte has given me an great oppurtunity to groom my skills and I am Really thankful to them.
+Well, My First Task is About Iris Flower Classification, So I have used Machine Learning Models to do this Task. I have Used is KNN , Logistic Regression , and Decision Classifier.I have Imported neccessary libraries then Loaded the data using Sklearn and then did Preprocessing then load the models and train my data on them as dataset was to small so i have got 100 percent accuracy on all three models.Further Details would be provided in the folders of Particular tasks.
